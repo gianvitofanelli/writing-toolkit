@@ -5,6 +5,11 @@ Camera di commercio
      Solo la prima lettera è maiuscola.
 
      |
+     
+Carta di Identità Elettronica, CIE
+     Le prime lettere, tranne l'articolo, sono maiuscole. L'acronimo è tutto maiuscolo.
+
+     |
 
 Carta nazionale dei servizi, Cns
      Solo la prima iniziale è maiuscola.
