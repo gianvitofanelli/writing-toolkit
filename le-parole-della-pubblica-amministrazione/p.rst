@@ -62,6 +62,12 @@ Pubblica Amministrazione, PA
      Scrivilo per esteso, almeno la prima volta: dopo puoi usare l’acronimo. Le iniziali sono maiuscole.
 
      |
+     
+Pubblica Amministrazione centrale
+     Scrivilo sempre per esteso. Solo le prime due parole hanno la maiuscola.
+
+     |
+
 
 pubblico ministero, PM
      Nella versione estesa, entrambe le iniziali sono minuscole. L’acronimo è maiuscolo.
