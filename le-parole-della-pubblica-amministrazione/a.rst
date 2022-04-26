@@ -24,6 +24,12 @@ Agenda digitale (italiana)
      Solo la prima lettera è maiuscola.
 
      |
+     
+Agenzia per la Cybersicurezza Nazionale, ACN
+    Nell'acronimo tutte le lettere sono maiuscole.
+
+     |
+
 
 Agenzia per l’Italia digitale, AGID
      Nell'acronimo tutte le lettere sono maiuscole.
