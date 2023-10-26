@@ -7,7 +7,7 @@ tassa sui rifiuti, Tari
      |
 
 Testo Unico
-     Scritto per esteso, le iniziali sono maiuscole.
+     Scrivilo per esteso. Entrambe le iniziali sono maiuscole, così come nell'acronimo.
 
      |
 
